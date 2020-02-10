@@ -1,7 +1,7 @@
 #
 Week1 IP
 #
-Author;VINCENT NJOROGE
+Author:VINCENT NJOROGE
 #
 Description of the project;the website entails just but a few details about Vincent.
 #
