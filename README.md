@@ -1,5 +1,5 @@
 #
-Week1 Ip
+Week1 IP
 #
 Author;VINCENT NJOROGE
 #
