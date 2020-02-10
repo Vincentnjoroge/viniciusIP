@@ -3,7 +3,7 @@ Week one ip
 #
 Author;VINCENT NJOROGE
 #
-Description of the project;the website entails just but a few details about vincent.
+Description of the project;the website entails just but a few details about Vincent.
 #
 #
 link to the website https://github.com/Vincentnjoroge/viniciusIP.git
