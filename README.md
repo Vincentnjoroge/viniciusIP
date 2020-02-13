@@ -8,4 +8,4 @@ Description of the project;The website entails just but a few details about Vinc
 #
 link to the website https://github.com/Vincentnjoroge/viniciusIP.git
 # 
-Copyright 2020 .Nairobi,KENYA.
+Copyright 2020 .Nairobi,KENYA
